@@ -1,1 +1,3 @@
 # Crowdfunding-ETL.
+
+In this challenge, we practiced the ETL process for Independent Funding. With the use of Python, Pandas, Jupyter Notebook we performed the extract and transform phases of the database.  We extracted and transformed the backers’ contact information from a CSV file to create a DataFrame that will be exported as a CSV file. You'll then do the load phase. Specifically, you’ll use the dataset to create an ERD and a table schema for creating a new table in the crowdfunding_db database. And, you’ll upload the CSV file that contains the backers’ information into this table. Finally, you’ll perform a data analysis on the crowdfunding_db database by using SQL queries.
